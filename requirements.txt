@@ -1,4 +1,4 @@
-# Versions from the author's Windows / Python 3.11 environment.
+# Phiên bản dependency từ môi trường Windows / Python 3.11 của tác giả.
 tensorflow==2.16.1
 keras==3.15.0
 mediapipe==0.10.21
